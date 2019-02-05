@@ -1,4 +1,3 @@
-]
 
 ## Flix Part 2
 
